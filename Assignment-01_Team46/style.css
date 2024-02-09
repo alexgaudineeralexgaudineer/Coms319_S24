@@ -115,7 +115,7 @@ html { overflow-y: scroll; }
   }
 
   .navtext {
-    color:white;
+    color:rgb(15, 15, 15);
     font-size: 13px;
   }
 
@@ -135,7 +135,7 @@ html { overflow-y: scroll; }
   }
 
   body {
-    background-color: rgb(251, 249, 249);
+    background-color: rgb(15, 15, 15);
   }
 
  .footer{
