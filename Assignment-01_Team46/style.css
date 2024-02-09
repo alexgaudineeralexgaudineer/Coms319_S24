@@ -8,7 +8,7 @@ html { overflow-y: scroll; }
    */
   
   .site-header {
-    background-color: rgba(0, 0, 0, 0.664);
+    background-color: #D9534F;
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
   }
